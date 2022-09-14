@@ -1,0 +1,15 @@
+{
+  "name": "entap/slack-sms",
+  "description": "sms to slack",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Toshimasa Matsuoka",
+      "email": "matsuoka@entap.co.jp"
+    }
+  ],
+  "require": {
+    "maknz/slack": "^1.7"
+  }
+}
