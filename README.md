@@ -13,7 +13,7 @@ https://qiita.com/vascodagama/items/114619c2bcf020226cd7
 
 ## SIMの設定
 
-rc.localとかで、起動時に接続するように設定をしてください。
+一度設定してください。APNとかの設定はSIMの発行元の会社が公開してるはず。
 
 ````
 sudo nmcli con add type gsm ifname "*" con-name 「接続名」 apn 「ＡＰＮ」 user 「ユーザー」 password 「パスワード」
